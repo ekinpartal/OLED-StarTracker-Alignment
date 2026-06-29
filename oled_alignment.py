@@ -10,8 +10,8 @@ OLED_HEIGHT = 1080
 OLED_OFFSET_X = 1920  # OLED'in Windows ekran düzenindeki X başlangıcı
 OLED_OFFSET_Y = 0
 
-CAMERA_WIDTH = 1024
-CAMERA_HEIGHT = 1024
+CAMERA_WIDTH = 2048
+CAMERA_HEIGHT = 2048
 
 SHARED_IMAGE_PATH = r"\\192.168.1.50\Kamera_Resimleri\kamera_output.bmp"
 
